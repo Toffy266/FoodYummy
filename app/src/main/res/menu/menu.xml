@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="Home"
+            android:textSize="12sp"
+            android:icon="@drawable/home"></item>
+        <item android:id="@+id/thai"
+            android:title="Thai Food"
+            android:textSize="12sp"
+            android:icon="@drawable/tomyum"></item>
+        <item android:id="@+id/eng"
+            android:title="International Food"
+            android:textSize="12sp"
+            android:icon="@drawable/fastfood"></item>
+        <item android:id="@+id/dessert"
+            android:title="Dessert"
+            android:textSize="12sp"
+            android:icon="@drawable/dessert"></item>
+        <item android:id="@+id/random"
+            android:title="Random Food"
+            android:textSize="12sp"
+            android:icon="@drawable/dices"></item>
+        <item android:id="@+id/resnear"
+            android:title="Restaurants Near Me"
+            android:textSize="12sp"
+            android:icon="@drawable/location"></item>
+
+    </group>
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220326436800",
+    "firebase_url": "https://foodyummy-1f7fe-default-rtdb.firebaseio.com",
+    "project_id": "foodyummy-1f7fe",
+    "storage_bucket": "foodyummy-1f7fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220326436800:android:3048371fe0232349c87225",
+        "android_client_info": {
+          "package_name": "com.swu.foodyummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220326436800-n14b50oj6co59kumoa0pcp9kkehfsbr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_8gCqlmlV5fmrIT0JYB-6OXKGW97Hm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220326436800-n14b50oj6co59kumoa0pcp9kkehfsbr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
