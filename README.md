@@ -1,6 +1,6 @@
 # Project CP316 Mobile Programming
 
-** The database and api are closed. **
+** The database and API are closed. **
 
 App Description : https://drive.google.com/file/d/1Pl0RQGpZX36JGe6REp3e-sGNCcafM4jr/view?usp=sharing
 
