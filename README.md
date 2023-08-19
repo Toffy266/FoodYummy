@@ -2,7 +2,7 @@
 
 ** The database and API are closed. **
 
-App Description (File) : https://drive.google.com/file/d/1Pl0RQGpZX36JGe6REp3e-sGNCcafM4jr/view?usp=sharing
+App Description (PDF File) : https://drive.google.com/file/d/1Pl0RQGpZX36JGe6REp3e-sGNCcafM4jr/view?usp=sharing
 
 สมาชิก: 
 1) นางสาวบุษราคัม เลิศพัฒนชาติ (62102010172)  
